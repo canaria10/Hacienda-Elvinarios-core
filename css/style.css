@@ -1,0 +1,25 @@
+img {
+   height: 112px;
+   width: 400px;
+   border: 0;
+   margin-left: -70px;
+}
+
+form {
+      width: 350px;
+      height: 370px;
+      margin-right: 30%;
+      margin-left: 30%;
+}
+
+div.mainform {width:100%;
+              border:5px solid #000}
+#logo {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 49px;
+}
+user agent stylesheet
+div {
+    display: block;
+}
